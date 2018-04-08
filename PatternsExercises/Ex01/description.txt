@@ -1,0 +1,4 @@
+﻿Реализовать метод GetSubscribers в SubscriberViewer, используя TwitterClient и InstagramClient для получения информации о пользователе
+*Ваша реализация GetSubscribers должна позволять в дальнейшем добавлять новые соц.сети без необходимости править код GetSubscribers
+
+Менять можно только код SubscriberViewer и создавать новые классы\интерфейсы

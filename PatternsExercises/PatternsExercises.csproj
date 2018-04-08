@@ -45,10 +45,18 @@
     <Compile Include="Ex00\ILogReader.cs" />
     <Compile Include="Ex00\LogImporter.cs" />
     <Compile Include="Ex00\LogImporterClient.cs" />
+    <Compile Include="Ex01\ExternalLibs\Instagram\InstagramClient.cs" />
+    <Compile Include="Ex01\ExternalLibs\Instagram\InstagramUser.cs" />
+    <Compile Include="Ex01\ExternalLibs\Twitter\TwitterClient.cs" />
+    <Compile Include="Ex01\ExternalLibs\Twitter\TwitterUser.cs" />
+    <Compile Include="Ex01\SocialNetwork.cs" />
+    <Compile Include="Ex01\SocialNetworkUser.cs" />
+    <Compile Include="Ex01\SubscriberViewer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Ex00\description.txt" />
+    <Content Include="Ex01\description.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
