@@ -52,11 +52,16 @@
     <Compile Include="Ex01\SocialNetwork.cs" />
     <Compile Include="Ex01\SocialNetworkUser.cs" />
     <Compile Include="Ex01\SubscriberViewer.cs" />
+    <Compile Include="Ex02\TwitterUserService.cs" />
+    <Compile Include="Ex02\UserInfo.cs" />
+    <Compile Include="Ex02\VkUser.cs" />
+    <Compile Include="Ex02\VkUserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Ex00\description.txt" />
     <Content Include="Ex01\description.txt" />
+    <Content Include="Ex02\description.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
