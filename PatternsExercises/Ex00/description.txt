@@ -1,0 +1,3 @@
+﻿Необходимо сделать возможным использование FtpClient для чтения файла с логами в LogImporter.
+Сделать это нужно не меняя кода FtpClient, ILogReader и LogImporter
+Можно менять только LogImporterClient и создавать новые классы\интерфейсы
