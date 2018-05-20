@@ -1,4 +1,6 @@
-namespace Patterns.Ex05
+using Patterns.Ex05.ExternalLibs;
+
+namespace Patterns.Ex05.SubEx_01
 {
     public class DatabaseSaverClient
     {

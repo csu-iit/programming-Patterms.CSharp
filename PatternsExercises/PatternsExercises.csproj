@@ -56,21 +56,23 @@
     <Compile Include="Ex02\UserInfo.cs" />
     <Compile Include="Ex02\VkUser.cs" />
     <Compile Include="Ex02\VkUserService.cs" />
+    <Compile Include="Ex05\ExternalLibs\CacheUpdater.cs" />
+    <Compile Include="Ex05\SubEx_01\DatabaseSaverClient.cs" />
     <Compile Include="Ex05\ExternalLibs\DatabaseSaver.cs" />
+    <None Include="Ex05\SubEx_01\description.txt" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Ex00\description.txt" />
     <Content Include="Ex01\description.txt" />
     <Content Include="Ex02\description.txt" />
-    <Content Include="Ex05\ExternalLibs\CacheUpdater.cs" />
-    <Compile Include="Ex05\DatabaseSaverClient.cs" />
+    <Compile Include="Ex05\SubEx_02\DatabaseSaverClient.cs" />
     <Compile Include="Ex05\ExternalLibs\IDatabaseSaver.cs" />
     <Compile Include="Ex05\ExternalLibs\MailSender.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <None Include="Ex05\description.txt" />
+    <None Include="Ex05\SubEx_02\description.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,4 +1,4 @@
-namespace MyNamespace
+﻿namespace Patterns.Ex05.ExternalLibs
 {
     /// <summary>
     /// Обновляет кэш
@@ -7,7 +7,7 @@ namespace MyNamespace
     {
         public void UpdateCache()
         {
-            //Обновление кэша
+
         }
     }
 }

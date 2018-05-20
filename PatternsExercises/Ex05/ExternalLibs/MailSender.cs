@@ -1,4 +1,4 @@
-namespace Patterns.Ex05
+namespace Patterns.Ex05.ExternalLibs
 {
     /// <summary>
     /// Отправляет пиьсмо на email
